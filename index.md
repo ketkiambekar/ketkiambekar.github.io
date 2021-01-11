@@ -1,8 +1,8 @@
 ---
 title: Home
 feature_text: |
-  ## Alembic
-  Ketki Ambekar
+  ## Ketki Ambekar
+  Data Science Graduate Student | Machine Learning, Deep Learning and NLP Enthusiast
 feature_image: "/assets/banner.png"
 excerpt: "Data Science Graduate Student | Machine Learning, Deep Learning and NLP Enthusiast"
 ---
